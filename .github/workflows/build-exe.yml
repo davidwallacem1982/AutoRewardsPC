@@ -30,6 +30,7 @@ jobs:
 
       - name: Build EXE with PyInstaller
         run: |
+          python tools/optimize_assets.py
           pyinstaller AutoRewardsPC.spec --clean
 
       - name: Zip Release

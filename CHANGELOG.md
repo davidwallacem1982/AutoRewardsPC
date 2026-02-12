@@ -21,11 +21,6 @@ e o versionamento semântico (**SemVer**): <https://semver.org/lang/pt-BR/>
 ### Adicionado
 
 - Atualização Documentação completa no CHANGELOG.md
-
-## [v1.0.2] - 2026-02-04
-
-### Adicionado
-
 - Atualização Documentação completa no README
 - Atualização Explicação detalhada da dependência externa Tesseract OCR
 

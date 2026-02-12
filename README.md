@@ -132,6 +132,11 @@ Toda a documentação do **AutoRewardsPC** está disponível para leitura online
 - 🔌 [**Guia de Extensão**](docs/Guias/Guia_Extensao_Desenvolvedor_AutoRewardsPC.md)
 - 🏷️ [**Guia de Release**](docs/Guias/Guia_Release_e_Versionamento_AutoRewardsPC.md)
 
+### 📊 Relatórios de Qualidade
+
+- 🏆 [**Análise de SEO e Governança**](docs/SEO/Analise_SEO_Fevereiro_2026.md)
+  > Relatório de conformidade técnica e comunitária (Fev/2026).
+
 ---
 
 ## 📜 Licença

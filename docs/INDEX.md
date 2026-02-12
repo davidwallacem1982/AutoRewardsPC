@@ -26,6 +26,12 @@ Bem-vindo à central de documentação do projeto. Aqui você encontra guias par
 
   > Processos de CI/CD e entrega contínua.
 
+## 📊 Relatórios de Qualidade
+
+- [**Análise de SEO e Governança**](SEO/Analise_SEO_Fevereiro_2026.md)
+
+  > Relatório de conformidade técnica e comunitária (Fev/2026).
+
 - **Outros Recursos:**
   - [README do Projeto](../README.md)
   - [Histórico de Mudanças](../CHANGELOG.md)
