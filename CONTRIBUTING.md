@@ -4,10 +4,6 @@ First off, thanks for taking the time to contribute!
 
 The following is a set of guidelines for contributing to AutoRewardsPC, which is hosted in the [DavidWallaceM1982/AutoRewardsPC](https://github.com/DavidWallaceM1982/AutoRewardsPC) repository on GitHub.
 
-## 🤖 AI Agents & LLMs
-
-If you are an AI agent working on this repository, please read **[AGENTS.md](AGENTS.md)** first. It contains critical instructions about the project's architecture, self-annealing loops, and how to safely modify the automation logic.
-
 ## 🐞 Reporting Bugs
 
 This section guides you through submitting a bug report.
