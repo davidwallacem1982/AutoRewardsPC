@@ -1,0 +1,67 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# ======================
+# PyInstaller
+# ======================
+build/
+dist/
+
+# ======================
+# Backup
+# ======================
+backups/
+
+# ======================
+# calibration_config
+# ======================
+calibration_config.json
+
+# ======================
+# Test / coverage
+# ======================
+.coverage
+htmlcov/
+.pytest_cache/
+
+# ======================
+# Logs
+# ======================
+logs/
+*.log
+
+# ======================
+# OS / Editor
+# ======================
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+
+# ======================
+# Cache / temp
+# ======================
+*.tmp
+*.temp
+
+# ======================
+# docs / .py
+# ======================
+create_architecture_guide.py
+create_commercial_documentation.py
+create_extension_guide.py
+create_manual.py
+create_professional_technical_manual.py
+create_release_guide.py
+create_support_guide.py

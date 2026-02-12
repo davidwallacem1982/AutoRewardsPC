@@ -1,0 +1,10 @@
+customtkinter
+pillow
+PyAutoGUI
+pyinstaller
+pygetwindow
+pyperclip
+pytesseract
+cairosvg
+pynput
+pystray 
