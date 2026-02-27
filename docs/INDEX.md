@@ -38,4 +38,4 @@ Bem-vindo à central de documentação do projeto. Aqui você encontra guias par
 
 ---
 
-_Leprechaun´s Green Team_
+_assinada por **David Wallace Marques Ferreira** - Engenheiro Sênior_

@@ -15,11 +15,11 @@ VSVersionInfo(
       [
       StringTable(
         u'040904B0',
-        [StringStruct(u'CompanyName', u'Leprechauns Green Team'),
+        [StringStruct(u'CompanyName', u'David Wallace Marques Ferreira'),
         StringStruct(u'FileDescription', u'AutoRewardsPC - Automated Rewards System'),
         StringStruct(u'FileVersion', u'1.0.0'),
         StringStruct(u'InternalName', u'AutoRewardsPC'),
-        StringStruct(u'LegalCopyright', u'Copyright (c) 2026 Leprechauns Green Team'),
+        StringStruct(u'LegalCopyright', u'Copyright (c) 2026 David Wallace Marques Ferreira'),
         StringStruct(u'OriginalFilename', u'AutoRewardsPC.exe'),
         StringStruct(u'ProductName', u'AutoRewardsPC'),
         StringStruct(u'ProductVersion', u'1.1.1')])

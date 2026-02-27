@@ -1,0 +1,28 @@
+[project]
+name = "AutoRewardsPC"
+version = "1.1.1"
+description = "Solução Avançada de Automação Desktop para Microsoft Rewards"
+authors = [
+    {name = "David Wallace Marques Ferreira", email = "david@example.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "customtkinter",
+    "pillow",
+    "PyAutoGUI",
+    "pygetwindow",
+    "pyperclip",
+    "pytesseract",
+    "cairosvg",
+    "pynput",
+    "pystray"
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]

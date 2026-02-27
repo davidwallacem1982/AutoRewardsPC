@@ -61,4 +61,4 @@ O AutoRewardsPC não é apenas um "bot de cliques", é uma ferramenta de produti
 
 ---
 
-_Gerado por – Leprechaun´s Green Team_
+_assinada por **David Wallace Marques Ferreira** - Engenheiro Sênior_
