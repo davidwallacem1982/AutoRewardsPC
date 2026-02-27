@@ -22,7 +22,7 @@ A ferramenta gera logs detalhados em:
 
 > `C:\...\AutoRewardsPC\logs\automation.log`
 
-### Padrões de Erro no Log:
+### Padrões de Erro no Log
 
 - `[INFO] Starting...` -> Fluxo normal.
 - `[ERROR] Element not found` -> Interface do Bing mudou ou página não carregou.
@@ -42,4 +42,4 @@ Execute a aplicação via terminal (CMD/PowerShell) para ver a saída padrão (s
 
 ---
 
-_Gerado por – Leprechaun´s Green Team_
+_assinada por **David Wallace Marques Ferreira** - Engenheiro Sênior_

@@ -45,4 +45,4 @@ Recomendamos manter um arquivo `CHANGELOG.md` atualizado:
 
 ---
 
-_Gerado por – Leprechaun´s Green Team_
+_assinada por **David Wallace Marques Ferreira** - Engenheiro Sênior_

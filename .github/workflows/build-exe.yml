@@ -28,6 +28,10 @@ jobs:
           pip install -r requirements.txt
           pip install pyinstaller
 
+      - name: Run Tests
+        run: |
+          python -m unittest discover tests
+
       - name: Build EXE with PyInstaller
         run: |
           python tools/optimize_assets.py

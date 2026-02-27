@@ -113,4 +113,4 @@ Para adicionar novos passos de automação:
 
 ---
 
-_Gerado por – Leprechaun´s Green Team_
+_assinada por **David Wallace Marques Ferreira** - Engenheiro Sênior_

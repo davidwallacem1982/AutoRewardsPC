@@ -62,4 +62,4 @@ Isso limpará as pastas antigas e gerará um novo `AutoRewardsPC.exe` na pasta `
 
 ---
 
-_Gerado por – Leprechaun´s Green Team_
+_assinada por **David Wallace Marques Ferreira** - Engenheiro Sênior_

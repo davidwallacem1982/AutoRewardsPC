@@ -11,7 +11,8 @@ _Robusta, Portátil e Baseada em Visão Computacional_
 ![Release](https://img.shields.io/badge/release-v1.0.0-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)](https://www.python.org/)
-![Build](https://img.shields.io/badge/build-stable-blue?style=flat-square)
+![Tests](https://img.shields.io/badge/tests-6/6_passed-brightgreen)
+![Integrity](https://img.shields.io/badge/integrity-diamond_audit-blueviolet)
 
 **O **AutoRewardsPC** é uma aplicação desktop desenvolvida em **Python** que automatiza processos
 repetitivos com precisão de OCR, distribuída como um **executável (.exe)** para Windows.  
@@ -101,6 +102,22 @@ Isso traz vantagens como:
 
 ---
 
+## 🧪 Testes e Qualidade (Precisão Diamantina) 💎
+
+O AutoRewardsPC não é apenas um script de automação; é um sistema blindado. Implementamos uma camada de **Testes de Integração de OCR** para garantir que a identificação de pontos seja 100% precisa em diversas resoluções de tela.
+
+### 🛡️ Auditoria de Integridade
+
+Todo o código passa pelo protocolo **Juggernaut Integrity Audit**, garantindo que as travas de segurança e a lógica de meta diária nunca falhem.
+
+- 🔬 **Precisão:** Validação de padrões OCR (`PC Search`, `X / Y`).
+- 🛑 **Segurança:** Encerramento automático garantido ao atingir a meta.
+- 🏆 **QA:** Testes automatizados executados via `python -m unittest discover tests`.
+
+[📄 Ver Relatório de Integridade Técnica](docs/Auditoria/Relatorio_Integridade.md)
+
+---
+
 ## ✨ Funcionalidades
 
 - Interface simples e intuitiva
@@ -145,4 +162,4 @@ Distribuído sob a licença **MIT**.
 
 ---
 
-Desenvolvido com ❤️ em Python pelo **Leprechaun´s Green Team**.
+Desenvolvido com ❤️ em Python assinada por **David Wallace Marques Ferreira** - Engenheiro Sênior.

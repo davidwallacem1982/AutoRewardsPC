@@ -40,6 +40,14 @@ Define as estruturas de dados e contratos.
 - `Items` (`src/domain/items.py`): DTOs e constantes.
 - `Configuração` (`calibration_config.json`): Persistência local de parâmetros de calibração.
 
+### 3.4. Camada de Testes (QA) [NEW]
+
+Garante a precisão e estabilidade das operações críticas.
+
+**Principais Componentes:**
+
+- `OCR Validation` (`tests/test_ocr_integration.py`): Testes de integração que validam a precisão do motor de OCR e regex sob diversas condições.
+
 ## 4. Fluxos Críticos
 
 ### 4.1. Inicialização
@@ -68,4 +76,4 @@ O ciclo de automação roda em uma Thread separada (`threading.Thread`) para nã
 
 ---
 
-_Gerado por – Leprechaun´s Green Team_
+_assinada por **David Wallace Marques Ferreira** - Engenheiro Sênior_
